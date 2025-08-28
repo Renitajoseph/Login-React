@@ -1,5 +1,6 @@
 {
   "name": "vite-react-typescript-starter",
+  "homepage": "https://renitajoseph.github.io/Login-React",
   "private": true,
   "version": "0.0.0",
   "type": "module",
